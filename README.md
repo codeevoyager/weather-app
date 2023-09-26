@@ -14,4 +14,4 @@ when you search the city name it will give details of the city's weather data
 
 ## Preview
 
-![preview-image](preview-img.png)
+[![preview-image](preview-img.png)](https://weather-app-codeevoyager.vercel.app)
